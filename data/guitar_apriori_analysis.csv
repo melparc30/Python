@@ -1,0 +1,101 @@
+products,String,Bridge,String Pegs,Tuning Keys,Nut,Pick Guard,Fret,Saddle,Pick,Tuner
+"('Nut', 'Saddle', 'Tuner')",0,0,0,0,1,0,0,1,0,1
+"('Tuning Keys', 'Nut', 'Pick Guard')",0,0,0,1,1,1,0,0,0,0
+"('Nut', 'Pick Guard', 'Fret', 'Pick')",0,0,0,0,1,1,1,0,1,0
+"('Bridge', 'Tuning Keys', 'Nut', 'Pick Guard')",0,1,0,1,1,1,0,0,0,0
+"('String Pegs', 'Fret', 'Saddle', 'Tuner')",0,0,1,0,0,0,1,1,0,1
+"('Saddle', 'Pick')",0,0,0,0,0,0,0,1,1,0
+"('Tuning Keys', 'Pick Guard', 'Fret', 'Tuner')",0,0,0,1,0,1,1,0,0,1
+"('String', 'Bridge', 'Nut', 'Saddle')",1,1,0,0,1,0,0,1,0,0
+"('String', 'String Pegs', 'Fret', 'Tuner')",1,0,1,0,0,0,1,0,0,1
+"('String Pegs', 'Pick Guard', 'Fret', 'Tuner')",0,0,1,0,0,1,1,0,0,1
+"('Bridge', 'String Pegs', 'Pick Guard', 'Pick')",0,1,1,0,0,1,0,0,1,0
+"('Fret', 'Saddle', 'Tuner')",0,0,0,0,0,0,1,1,0,1
+"('String', 'Bridge', 'Fret', 'Tuner')",1,1,0,0,0,0,1,0,0,1
+"('String', 'String Pegs', 'Nut', 'Pick Guard')",1,0,1,0,1,1,0,0,0,0
+"('String', 'String Pegs', 'Tuning Keys', 'Pick Guard')",1,0,1,1,0,1,0,0,0,0
+"('String Pegs', 'Nut', 'Fret', 'Pick')",0,0,1,0,1,0,1,0,1,0
+"('Bridge', 'Tuning Keys', 'Pick Guard')",0,1,0,1,0,1,0,0,0,0
+"('String', 'String Pegs', 'Tuning Keys', 'Nut')",1,0,1,1,1,0,0,0,0,0
+"('String Pegs', 'Fret', 'Tuner')",0,0,1,0,0,0,1,0,0,1
+"('String', 'Pick Guard', 'Fret', 'Saddle')",1,0,0,0,0,1,1,1,0,0
+"('String', 'String Pegs')",1,0,1,0,0,0,0,0,0,0
+"('String', 'Pick Guard', 'Pick', 'Tuner')",1,0,0,0,0,1,0,0,1,1
+"('Saddle', 'Tuner')",0,0,0,0,0,0,0,1,0,1
+"('Nut', 'Pick Guard', 'Saddle', 'Tuner')",0,0,0,0,1,1,0,1,0,1
+"('String', 'Bridge', 'Saddle')",1,1,0,0,0,0,0,1,0,0
+"('String', 'Nut', 'Pick Guard', 'Fret')",1,0,0,0,1,1,1,0,0,0
+"('Bridge', 'Tuning Keys', 'Fret')",0,1,0,1,0,0,1,0,0,0
+"('String Pegs', 'Fret')",0,0,1,0,0,0,1,0,0,0
+"('Bridge', 'String Pegs', 'Saddle')",0,1,1,0,0,0,0,1,0,0
+"('String', 'String Pegs', 'Fret', 'Saddle')",1,0,1,0,0,0,1,1,0,0
+"('Bridge', 'String Pegs', 'Saddle', 'Pick')",0,1,1,0,0,0,0,1,1,0
+"('Bridge', 'Pick Guard', 'Fret')",0,1,0,0,0,1,1,0,0,0
+"('Bridge', 'String Pegs', 'Fret', 'Tuner')",0,1,1,0,0,0,1,0,0,1
+"('String Pegs', 'Tuning Keys', 'Saddle')",0,0,1,1,0,0,0,1,0,0
+"('Nut', 'Pick Guard', 'Saddle')",0,0,0,0,1,1,0,1,0,0
+"('String', 'Saddle', 'Pick', 'Tuner')",1,0,0,0,0,0,0,1,1,1
+"('Bridge', 'Tuning Keys', 'Nut', 'Saddle')",0,1,0,1,1,0,0,1,0,0
+"('String', 'Pick', 'Tuner')",1,0,0,0,0,0,0,0,1,1
+"('Nut', 'Saddle', 'Pick')",0,0,0,0,1,0,0,1,1,0
+"('String', 'Tuning Keys', 'Nut', 'Tuner')",1,0,0,1,1,0,0,0,0,1
+"('String', 'Fret', 'Tuner')",1,0,0,0,0,0,1,0,0,1
+"('Bridge', 'Nut', 'Fret', 'Pick')",0,1,0,0,1,0,1,0,1,0
+"('String Pegs', 'Nut')",0,0,1,0,1,0,0,0,0,0
+"('String Pegs', 'Tuning Keys', 'Pick')",0,0,1,1,0,0,0,0,1,0
+"('String Pegs', 'Nut', 'Fret', 'Saddle')",0,0,1,0,1,0,1,1,0,0
+"('Bridge', 'String Pegs', 'Tuner')",0,1,1,0,0,0,0,0,0,1
+"('String', 'Bridge', 'Pick', 'Tuner')",1,1,0,0,0,0,0,0,1,1
+"('String', 'String Pegs', 'Pick')",1,0,1,0,0,0,0,0,1,0
+"('Bridge', 'Tuning Keys', 'Pick Guard', 'Tuner')",0,1,0,1,0,1,0,0,0,1
+"('Bridge', 'Nut', 'Saddle')",0,1,0,0,1,0,0,1,0,0
+"('String Pegs', 'Tuning Keys', 'Fret')",0,0,1,1,0,0,1,0,0,0
+"('String Pegs', 'Fret', 'Saddle', 'Pick')",0,0,1,0,0,0,1,1,1,0
+"('Bridge', 'Pick Guard')",0,1,0,0,0,1,0,0,0,0
+"('String Pegs', 'Nut', 'Pick Guard', 'Saddle')",0,0,1,0,1,1,0,1,0,0
+"('String Pegs', 'Nut', 'Saddle', 'Tuner')",0,0,1,0,1,0,0,1,0,1
+"('Bridge', 'Tuning Keys', 'Nut')",0,1,0,1,1,0,0,0,0,0
+"('Pick Guard', 'Pick')",0,0,0,0,0,1,0,0,1,0
+"('Bridge', 'Nut', 'Pick Guard', 'Pick')",0,1,0,0,1,1,0,0,1,0
+"('String', 'Tuning Keys', 'Nut', 'Pick')",1,0,0,1,1,0,0,0,1,0
+"('Pick Guard', 'Saddle', 'Pick', 'Tuner')",0,0,0,0,0,1,0,1,1,1
+"('Pick',)",0,0,0,0,0,0,0,0,1,0
+"('Pick Guard',)",0,0,0,0,0,1,0,0,0,0
+"('Tuning Keys', 'Pick Guard', 'Saddle')",0,0,0,1,0,1,0,1,0,0
+"('String Pegs', 'Tuning Keys', 'Pick Guard', 'Tuner')",0,0,1,1,0,1,0,0,0,1
+"('String', 'Bridge', 'Nut', 'Tuner')",1,1,0,0,1,0,0,0,0,1
+"('String', 'Saddle')",1,0,0,0,0,0,0,1,0,0
+"('String Pegs', 'Tuning Keys', 'Pick Guard', 'Fret')",0,0,1,1,0,1,1,0,0,0
+"('String', 'Bridge', 'Tuning Keys', 'Tuner')",1,1,0,1,0,0,0,0,0,1
+"('String Pegs', 'Tuning Keys', 'Pick Guard')",0,0,1,1,0,1,0,0,0,0
+"('Tuning Keys', 'Fret', 'Saddle')",0,0,0,1,0,0,1,1,0,0
+"('Tuning Keys', 'Fret', 'Tuner')",0,0,0,1,0,0,1,0,0,1
+"('Nut', 'Fret', 'Tuner')",0,0,0,0,1,0,1,0,0,1
+"('String', 'Fret')",1,0,0,0,0,0,1,0,0,0
+"('Bridge',)",0,1,0,0,0,0,0,0,0,0
+"('String', 'String Pegs', 'Nut', 'Pick')",1,0,1,0,1,0,0,0,1,0
+"('String',)",1,0,0,0,0,0,0,0,0,0
+"('String', 'Tuning Keys', 'Pick', 'Tuner')",1,0,0,1,0,0,0,0,1,1
+"('String', 'Bridge', 'Fret', 'Saddle')",1,1,0,0,0,0,1,1,0,0
+"('String Pegs', 'Tuning Keys', 'Tuner')",0,0,1,1,0,0,0,0,0,1
+"('Fret', 'Tuner')",0,0,0,0,0,0,1,0,0,1
+"('String', 'Bridge', 'Tuning Keys', 'Pick')",1,1,0,1,0,0,0,0,1,0
+"('String', 'Fret', 'Saddle')",1,0,0,0,0,0,1,1,0,0
+"('Bridge', 'Tuning Keys', 'Pick Guard', 'Saddle')",0,1,0,1,0,1,0,1,0,0
+"('String Pegs', 'Fret', 'Saddle')",0,0,1,0,0,0,1,1,0,0
+"('Bridge', 'String Pegs', 'Tuning Keys', 'Tuner')",0,1,1,1,0,0,0,0,0,1
+"('String', 'Tuning Keys', 'Fret', 'Tuner')",1,0,0,1,0,0,1,0,0,1
+"('Bridge', 'Tuning Keys', 'Pick')",0,1,0,1,0,0,0,0,1,0
+"('Fret', 'Saddle', 'Pick', 'Tuner')",0,0,0,0,0,0,1,1,1,1
+"('Bridge', 'Nut', 'Fret', 'Tuner')",0,1,0,0,1,0,1,0,0,1
+"('Nut', 'Saddle', 'Pick', 'Tuner')",0,0,0,0,1,0,0,1,1,1
+"('Bridge', 'Saddle', 'Pick')",0,1,0,0,0,0,0,1,1,0
+"('Bridge', 'String Pegs', 'Tuning Keys', 'Pick Guard')",0,1,1,1,0,1,0,0,0,0
+"('String', 'String Pegs', 'Tuning Keys', 'Pick')",1,0,1,1,0,0,0,0,1,0
+"('String', 'String Pegs', 'Saddle', 'Tuner')",1,0,1,0,0,0,0,1,0,1
+"('String', 'Bridge', 'String Pegs', 'Saddle')",1,1,1,0,0,0,0,1,0,0
+"('String', 'String Pegs', 'Nut', 'Saddle')",1,0,1,0,1,0,0,1,0,0
+"('Bridge', 'Nut', 'Pick Guard', 'Saddle')",0,1,0,0,1,1,0,1,0,0
+"('String Pegs', 'Tuner')",0,0,1,0,0,0,0,0,0,1
+"('Pick Guard', 'Saddle')",0,0,0,0,0,1,0,1,0,0
+"('String', 'Bridge', 'Pick Guard', 'Tuner')",1,1,0,0,0,1,0,0,0,1
